@@ -14,7 +14,7 @@ const LandingHero = () => {
           Your Event Just Got an Upgrade
         </h1>
         <p className="text-xl mb-6">
-          <span className="font-bold header-font">Mobile2You</span> brings the bar to you — cocktails, mocktails, and good
+          <span className="font-bold header-font">Mobile2You</span> brings the bar to you! Cocktails, mocktails, and good
           times served straight from our custom horse trailer.
         </p>
         <div className="flex gap-4 justify-center md:justify-start">

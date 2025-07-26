@@ -15,7 +15,7 @@ const QuickIntro = () => {
           viewport={{ once: true }}
         >
           <h2 className="text-3xl md:text-5xl font-bold mb-4">
-            We Bring the Bar to You — Literally
+            We Bring the Bar to You, Literally
           </h2>
           <p className="text-lg mb-6 leading-relaxed">
             Mobile 2 You is a mobile bar experience built into a custom horse trailer,

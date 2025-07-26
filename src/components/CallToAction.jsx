@@ -22,7 +22,7 @@ const CallToAction = () => {
           transition={{ duration: 0.7, delay: 0.2 }}
           viewport={{ once: true }}
         >
-          Whether it’s a wedding, birthday, or backyard bash — Mobile 2 You is ready to roll.
+          Whether it’s a wedding, birthday, or backyard bash, Mobile 2 You is ready to roll!
         </motion.p>
 
         <motion.div
