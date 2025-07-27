@@ -33,7 +33,7 @@ const FAQ = () => {
   };
 
   return (
-    <section className="bg-[#FFF9F0] text-[#4C2E05] px-6 py-20">
+    <section id="faq" className="bg-[#FFF9F0] text-[#4C2E05] px-6 py-20">
       <div className="max-w-4xl mx-auto text-center mb-12">
         <motion.h2
           className="text-4xl md:text-5xl font-bold mb-4 header-font"

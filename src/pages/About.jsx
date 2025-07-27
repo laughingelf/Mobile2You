@@ -11,7 +11,7 @@ const About = () => {
     return (
         <>
       <HeroCommon
-        title="About Mobile 2 You"
+        title="About Mobile2You"
         subtitle="We’re a mobile bar service with a Texas twist. Mixing up drinks, memories, and backyard fun across DFW!"
         imageSrc="/img/introImg.png"
         primaryCtaText="View Services"

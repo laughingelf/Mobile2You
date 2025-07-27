@@ -7,6 +7,7 @@ import Services from './pages/Services'
 import './App.css'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
+import PageTransitionWrapper from './components/PageTransWrapper'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
 
 
       <BrowserRouter>
+      <PageTransitionWrapper />
       <Navbar />
         <Routes>
           <Route index element={<LandingPage/>} />

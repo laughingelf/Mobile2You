@@ -14,7 +14,7 @@ const QuickIntro = () => {
           transition={{ duration: 0.7, ease: "easeOut" }}
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl md:text-5xl font-bold mb-4">
+          <h2 className="text-3xl md:text-5xl font-bold mb-4 header-font">
             We Bring the Bar to You, Literally
           </h2>
           <p className="text-lg mb-6 leading-relaxed">
